@@ -24,7 +24,14 @@ An intelligent Streamlit-based web app that ranks uploaded resumes based on thei
 pip install -r requirements.txt
 ```
 
----
+---![Screenshot (1)](https://github.com/user-attachments/assets/4df33497-e1fb-4db0-a905-3efc4ca8eb60)
+
+![Screenshot (2)](https://github.com/user-attachments/assets/04973014-e63e-48e7-b64c-308ecb0b26cd)
+
+
+
+![Screenshot (3)](https://github.com/user-attachments/assets/d97d7921-dffb-48fc-908b-b1afb04b4c6a)
+
 
 ## ▶️ Running the App
 
@@ -80,6 +87,6 @@ AI_Resume_Ranker/
 
 ## 🧑‍💻 Author
 
-Made by [Your Name] — for educational and career-boosting purposes!
+Made by Gannamani Mehar — for educational and career-boosting purposes!
 
 ---
